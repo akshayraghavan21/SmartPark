@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Smart Park</string>
+    <string name="ratefragintro">Rating a book involves sharing your opinion </string>
+    <string name="fragment1intro">
+        We have all been in a situation of not able to find the best source to prepare for any subject. \nIt is either due to lack of communication or the unique preferences we all have.
+    </string>
+    <string-array name="names">
+        <item>Select Subject by Code</item>
+        <item>ITE1016</item>
+        <item>ITE2016</item>
+        <item>ITE3016</item>
+    </string-array>
+    <string name="Info">
+    </string>
+</resources>
